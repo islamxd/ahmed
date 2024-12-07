@@ -20,7 +20,7 @@
 .up{
 
 
-    height: 33%;
+    height: 31%;
 
 }
 .toptop{
@@ -29,7 +29,7 @@
     align-items: center;
 }
 .centre{
-    height: 33%;
+    height: 31%;
 
 
    
@@ -42,7 +42,7 @@
     height: 100%;
 }
 .down{
-    height: 34%;
+    height: 31%;
     text-align: center;
 
 }
@@ -62,4 +62,11 @@
     text-decoration: none;
     color: black;
 
+}
+.footer{
+  
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 7%;
 }
